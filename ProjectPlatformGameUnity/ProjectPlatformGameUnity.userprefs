@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScriptAll\Scene1\SCENE1FadeStart.cs">
+    <Files>
+      <File FileName="Assets\ScriptAll\Scene2\SCENE2HeroMovement.cs" Line="154" Column="14" />
+      <File FileName="Assets\ScriptAll\Scene2\SCENE2FadeStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScriptAll\Scene1\SCENE1FadeStart.cs" Line="40" Column="35" />
+      <File FileName="Assets\ScriptAll\Scene1\SCENE1HeroMovement.cs" Line="71" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
